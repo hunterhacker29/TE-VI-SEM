@@ -1,0 +1,4 @@
+START 200
+ADD A
+SUB B
+HLT
